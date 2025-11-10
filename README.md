@@ -2,7 +2,7 @@
 
 <img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/DOMINO/blob/main/assets/FOTOS/FOTO.png?raw=true" />
 
-![Dominó](https://img.shields.io/badge/Estado-🚀%20En-%20Proceso-brightgreen)
+![Estado](https://img.shields.io/badge/Estado-En%20Proceso-brightgreen?style=for-the-badge&logo=rocket)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
