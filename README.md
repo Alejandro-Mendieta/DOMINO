@@ -1,8 +1,12 @@
-# 🎯 Dominó de Lujo - Juego Premium
+# 🎯 Dominó 🎯 
 
-![Dominó de Lujo](https://img.shields.io/badge/Estado-🚀%20Completo-brightgreen)
+<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/DOMINO/blob/main/assets/FOTOS/FOTO.png?raw=true" />
+
+![Dominó](https://img.shields.io/badge/Estado-🚀%20En-%20Proceso-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Version](https://img.shields.io/badge/Version-1.0-cyan)
 
 Un juego de dominó elegante y sofisticado desarrollado en Python con Pygame, que combina la tradición del clásico juego de mesa con una experiencia visual premium.
 
@@ -37,21 +41,21 @@ Un juego de dominó elegante y sofisticado desarrollado en Python con Pygame, qu
 ### Instalación Rápida
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/domino-lujo.git
-cd domino-lujo
+git clone https://github.com/alejandro-mendieta/domino.git
+cd domino
 
 # Instalar dependencias
 pip install pygame
 
 # Ejecutar el juego
-python domino_premium.py
+python Domino.py
 ```
 
 ### Instalación Manual
 1. Descarga Python desde [python.org](https://python.org)
 2. Instala Pygame: `pip install pygame`
-3. Descarga el archivo `domino_premium.py`
-4. Ejecuta: `python domino_premium.py`
+3. Descarga el archivo `Domino.py`
+4. Ejecuta: `python Domino.py`
 
 ## 🎯 Cómo Jugar
 
@@ -143,7 +147,7 @@ python -m pip install pygame
 ## 📁 Estructura del Código
 
 ```
-domino_premium.py
+Domino.py
 ├── Clase Ficha (gestión visual y lógica de fichas)
 ├── Clase Jugador (humano y CPU)
 ├── Clase Mesa (distribución y animaciones)
@@ -175,10 +179,6 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 ---
 
-**¿Preguntas o sugerencias?**  
-¡No dudes en abrir un issue o contactar al desarrollador!
-
----
 
 <div align="center">
 
